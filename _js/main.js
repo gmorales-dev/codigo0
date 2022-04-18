@@ -1,7 +1,7 @@
-const p = document.getElementsByClassName("p");
+// let parrafo = document.getElementsByClassName("p");
 
-p.addEventListener("click",()=>{
-    console.log("este es una etiqueta p");
-})
+// parrafo.addEventListener("click",()=>{
+//     console.log("este es una etiqueta p");
+// })
 
 console.log("aqui");
