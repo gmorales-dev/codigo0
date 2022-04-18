@@ -4,4 +4,4 @@
 //     console.log("este es una etiqueta p");
 // })
 
-console.log("aqui");
+console.log("aqui js");
